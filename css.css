@@ -1,0 +1,44 @@
+h4 { 
+background: AliceBlue; 
+color: MidnightBlue; 
+margin-top: 10px; 
+margin-right: 300px; 
+margin-bottom: 20px; 
+margin-left: 300px; 
+} 
+h2 { 
+ 
+margin-bottom: 20px; 
+margin-left: 300px; 
+} 
+h3 
+{ 
+margin-top: 10px; 
+margin-right: 300px; 
+margin-bottom: 20px; 
+margin-left: 300px; 
+} 
+h1 
+{ 
+color: SlateGrey; 
+margin-top: 50px; 
+margin-right: 300px; 
+margin-bottom: 50px; 
+margin-left: 300px 
+}  
+h1 
+{ 
+font-size: 80px 
+}  
+h3 { 
+font-size: 30px 
+} 
+#fotopiedi { 
+margin-top: 50px; 
+margin-right: 500px; 
+margin-bottom: 50px; 
+margin-left: 500px 
+} 
+h4 { 
+font-size: 20px 
+} 
