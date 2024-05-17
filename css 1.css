@@ -1,0 +1,99 @@
+h4 {
+background: AliceBlue;
+color: MidnightBlue;
+margin-top: 10px;
+margin-right: 300px;
+margin-bottom: 20px;
+margin-left: 300px;
+}
+h2 {
+background: AliceBlue;
+margin-top: 10px;
+margin-right: 300px;
+margin-bottom: 20px;
+margin-left: 300px;
+}
+h3
+{
+margin-top: 10px;
+margin-right: 300px;
+margin-bottom: 20px;
+margin-left: 300px;
+}
+h1
+{
+background: CornflowerBlue;
+color: Navy;
+padding-top: 50px;
+padding-right: 300px;
+padding-bottom: 50px;
+padding-left: 300px
+} 
+h1
+{
+font-size: 80px
+} 
+h3 {
+font-size: 30px
+}
+#fotopiedi {
+margin-top: 200px;
+margin-right: 500px;
+margin-bottom: 50px;
+margin-left: 400px
+}
+h4 {
+font-size: 20px
+}
+
+h1 {
+font-family: 'Lucida Handwriting'
+}
+
+h4 {
+font-family: 'Lucida Console'
+}
+h3 {
+font-family: "Copperplate"
+}
+
+#text {
+margin-top: 30px;
+margin-right: 400px;
+margin-bottom: 30px;
+margin-left: 400px
+}
+
+#email {
+margin-top: 30px;
+margin-right: 400px;
+margin-bottom: 30px;
+margin-left: 400px
+}
+
+#button {
+margin-top: 30px;
+margin-right: 400px;
+margin-bottom: 50px;
+margin-left: 400px
+}
+
+#iscrizione {
+background: Gainsboro;
+color: Indigo;
+margin-top: 10px;
+margin-right: 300px;
+margin-bottom: 20px;
+margin-left: 300px;
+}
+
+#iscrizione {
+font-family: "Monaco"
+}
+
+
+
+
+
+
+
